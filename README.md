@@ -14,8 +14,8 @@ It demonstrates my ability to perform **forensic acquisition, evidence analysis,
 - Documented a complete **chain of custody** and metadata timeline
 - Used **CyberChef, Autopsy, and Hashcat** to analyse log evidence and recover encrypted files
 - Demonstrated **evidence integrity** using MD5/SHA-256 hashing  
-📎 [Download Task 1 – Data Exfiltration Report (PDF)](./Coursework_1_Data_Exfiltration/26040247_Coursework_1_Task_1_Digital_Forensics_Thomas_Mason.pdf)  
-📎 [Download Task 2 – Evidence Integrity & Recovery (PDF)](./Coursework_1_Data_Exfiltration/26040247_Coursework_1_Task_2_Digital_Forensics_Thomas_Mason.pdf)
+📎 [Download Task 1 – Data Exfiltration Report (PDF)](./digital-forensics/Coursework_1_Data_Exfiltration/CIS2711_Coursework_1_Task_1_Digital_Forensics_Thomas_Mason.pdf)  
+📎 [Download Task 2 – Evidence Integrity & Recovery (PDF)](./digital-forensics/Coursework_1_Data_Exfiltration/CIS2711_Coursework_1_Task_2_Digital_Forensics_Thomas_Mason.pdf)
 
 ---
 
@@ -26,7 +26,7 @@ It demonstrates my ability to perform **forensic acquisition, evidence analysis,
 - Extracted hidden documents using **OpenStego** and decrypted Excel files with **John the Ripper**
 - Reconstructed financial evidence linking the suspect to illegal sales of academic work
 - Produced a professional report covering **ethical and legal responsibilities** under UK law (GDPR, Computer Misuse Act 1990)  
-📎 [Download Coursework 2 Report (PDF)](./Coursework_2_Forensic_Investigation/26040247_Coursework_2_Digital_Forensics_Thomas_Mason.pdf)
+📎 [Download Coursework 2 Report (PDF)](digital-forensics/Coursework_2_Forensic_Investigation/CIS2711_Coursework_2_Digital_Forensics_Thomas_Mason.pdf)
 
 ---
 
