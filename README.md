@@ -14,8 +14,8 @@ It demonstrates my ability to perform **forensic acquisition, evidence analysis,
 - Documented a complete **chain of custody** and metadata timeline
 - Used **CyberChef, Autopsy, and Hashcat** to analyse log evidence and recover encrypted files
 - Demonstrated **evidence integrity** using MD5/SHA-256 hashing  
-📎 [Download Task 1 – Data Exfiltration Report (PDF)](./CIS2711_Coursework_1_Task_1_Digital_Forensics_Thomas_Mason)  
-📎 [Download Task 2 – Evidence Integrity & Recovery (PDF)](.CIS2711_Coursework_1_Task_2_Digital_Forensics_Thomas_Mason.pdf)
+📎 [Download Task 1 – Data Exfiltration Report (PDF)](./CIS2711_Coursework_1_Task_1_Digital_Forensics_Thomas_Mason.pdf)  
+📎 [Download Task 2 – Evidence Integrity & Recovery (PDF)](./CIS2711_Coursework_1_Task_2_Digital_Forensics_Thomas_Mason.pdf)
 
 ---
 
